@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\bin\Debug\net6.0\helloworld2.exe
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\bin\Debug\net6.0\helloworld2.deps.json
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\bin\Debug\net6.0\helloworld2.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\bin\Debug\net6.0\helloworld2.dll
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\bin\Debug\net6.0\helloworld2.pdb
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.dll
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\refint\helloworld2.dll
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.pdb
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\helloworld2.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\helloworld2\helloworld2\obj\Debug\net6.0\ref\helloworld2.dll

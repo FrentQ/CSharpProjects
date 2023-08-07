@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\bin\Debug\net6.0\StarPyramid.exe
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\bin\Debug\net6.0\StarPyramid.deps.json
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\bin\Debug\net6.0\StarPyramid.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\bin\Debug\net6.0\StarPyramid.dll
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\bin\Debug\net6.0\StarPyramid.pdb
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.dll
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\refint\StarPyramid.dll
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.pdb
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\StarPyramid.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\StarPyramid\StarPyramid\obj\Debug\net6.0\ref\StarPyramid.dll

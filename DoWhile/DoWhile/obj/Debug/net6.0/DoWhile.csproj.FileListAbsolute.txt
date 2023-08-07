@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.exe
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.deps.json
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.dll
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\bin\Debug\net6.0\DoWhile.pdb
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.dll
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\refint\DoWhile.dll
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.pdb
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\DoWhile.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\DoWhile\DoWhile\obj\Debug\net6.0\ref\DoWhile.dll

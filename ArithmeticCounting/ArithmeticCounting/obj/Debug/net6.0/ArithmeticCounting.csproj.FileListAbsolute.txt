@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\bin\Debug\net6.0\ArithmeticCounting.exe
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\bin\Debug\net6.0\ArithmeticCounting.deps.json
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\bin\Debug\net6.0\ArithmeticCounting.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\bin\Debug\net6.0\ArithmeticCounting.dll
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\bin\Debug\net6.0\ArithmeticCounting.pdb
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.dll
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\refint\ArithmeticCounting.dll
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.pdb
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ArithmeticCounting.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\ArithmeticCounting\ArithmeticCounting\obj\Debug\net6.0\ref\ArithmeticCounting.dll

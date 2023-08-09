@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\bin\Debug\net6.0\MiniDataSaver.exe
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\bin\Debug\net6.0\MiniDataSaver.deps.json
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\bin\Debug\net6.0\MiniDataSaver.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\bin\Debug\net6.0\MiniDataSaver.dll
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\bin\Debug\net6.0\MiniDataSaver.pdb
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.dll
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\refint\MiniDataSaver.dll
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.pdb
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\MiniDataSaver.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\MiniDataSaver\MiniDataSaver\obj\Debug\net6.0\ref\MiniDataSaver.dll

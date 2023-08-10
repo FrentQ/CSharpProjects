@@ -24,13 +24,6 @@ namespace TopScorerList
             }
             Console.WriteLine("Name\t\t\tGoal Number");
             Console.WriteLine("----\t\t\t-----------");
-            //int a = 0;
-            //foreach (var item in topScorerList)
-            //{
-            //    Console.WriteLine($"{item}\t\t");
-            //    a++;
-            //    if (a % 2 == 0) Console.WriteLine("\n");
-            //}
 
             for (int i = 0; i < 20; i=i+2)
             {

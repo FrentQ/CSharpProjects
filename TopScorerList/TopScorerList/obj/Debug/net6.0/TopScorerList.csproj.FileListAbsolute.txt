@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\bin\Debug\net6.0\TopScorerList.exe
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\bin\Debug\net6.0\TopScorerList.deps.json
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\bin\Debug\net6.0\TopScorerList.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\bin\Debug\net6.0\TopScorerList.dll
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\bin\Debug\net6.0\TopScorerList.pdb
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.dll
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\refint\TopScorerList.dll
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.pdb
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\TopScorerList.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\TopScorerList\TopScorerList\obj\Debug\net6.0\ref\TopScorerList.dll

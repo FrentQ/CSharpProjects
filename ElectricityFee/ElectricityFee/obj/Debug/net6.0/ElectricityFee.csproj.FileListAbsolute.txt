@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\bin\Debug\net6.0\ElectricityFee.exe
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\bin\Debug\net6.0\ElectricityFee.deps.json
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\bin\Debug\net6.0\ElectricityFee.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\bin\Debug\net6.0\ElectricityFee.dll
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\bin\Debug\net6.0\ElectricityFee.pdb
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.dll
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\refint\ElectricityFee.dll
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.pdb
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ElectricityFee.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\ElectricityFee\ElectricityFee\obj\Debug\net6.0\ref\ElectricityFee.dll

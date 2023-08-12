@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\bin\Debug\net6.0\CelciusKelvinFahrenheit.exe
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\bin\Debug\net6.0\CelciusKelvinFahrenheit.deps.json
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\bin\Debug\net6.0\CelciusKelvinFahrenheit.runtimeconfig.json
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\bin\Debug\net6.0\CelciusKelvinFahrenheit.dll
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\bin\Debug\net6.0\CelciusKelvinFahrenheit.pdb
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.AssemblyInfo.cs
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.dll
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\refint\CelciusKelvinFahrenheit.dll
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.pdb
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\CelciusKelvinFahrenheit.genruntimeconfig.cache
+C:\Users\user\Desktop\csprojects\CelciusKelvinFahrenheit\CelciusKelvinFahrenheit\obj\Debug\net6.0\ref\CelciusKelvinFahrenheit.dll
